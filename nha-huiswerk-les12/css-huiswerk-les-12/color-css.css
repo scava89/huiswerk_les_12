@@ -1,0 +1,84 @@
+body{
+    background-color:  white;
+}
+header{
+    background-color: grey;
+    color:white;
+    width: 713px;
+    height:50px;
+    text-align: center;
+}
+caption{
+    background-color:black;
+    color: #f5f5f5;
+    width:713px;
+    height:auto;
+}
+.hoofd{
+    color: #f5f5f5;
+}
+#goku{
+    background-color: orange;
+    color: #0000ff
+}
+#img-goku{
+    background-color: #ffa500cf;
+}
+#luffy{
+    background-color: #ff0000;
+    color: #006400;
+}
+#img-luffy{
+    background-color: #ff0000cf;
+}
+#broly{
+    background-color: #00ff00;
+    color: #8b0000;
+}
+#img-broly{
+    background-color: #00ff00cf;
+}
+#zorro{
+    background-color: #33cc00;
+    color: #dc143c;
+}
+#img-zorro{
+    background-color: #33cc00cf;
+}
+#gohan{
+    background-color: rgb(255, 255, 0);
+    color: #ee82ee;
+}
+#img-gohan{
+    background-color: #ffff00cf;
+}
+#robin{
+    background-color: #ffff99;
+    color: #9400d3
+}
+#img-robin{
+    background-color: #ffff99cf;
+}
+#vegeta{
+    background-color: blue;
+    color: #ffa500;
+}
+#img-vegeta{
+    background-color: #0000ffcf;
+}
+#nami{
+    background-color: rgb(30, 144, 255);
+    color: #ff6347;
+}
+#img-nami{
+    background-color: #1e90ffcf;
+}
+footer{
+    background-color:grey;
+    color: #f5f5f5;
+    width:713px;
+    height:auto;
+    text-align:center;
+}
+
+
